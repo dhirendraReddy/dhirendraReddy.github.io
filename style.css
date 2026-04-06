@@ -55,6 +55,7 @@ nav ul li{
     font-size: 1.2rem;
     max-width: 800px;
     line-height: 1.6;
+     padding: 10px 20px;
 }
 /* Section styling */
 .skill-container {
