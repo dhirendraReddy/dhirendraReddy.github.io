@@ -64,10 +64,10 @@ nav ul li{
 
 /* Heading (h3) ko box banane ke liye */
 .skill-card h3 {
-    display: inline-block;
+    display: auto;
     background-color: #333; /* Dark background */
     color: #fff;            /* White text */
-    padding: 10px 300px;
+    padding: 10px;
     border-radius: 50px;
     margin-bottom: 20px;    /* List se thodi doori */
     font-size: 1.5rem;
